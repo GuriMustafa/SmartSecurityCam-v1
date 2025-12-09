@@ -47,13 +47,6 @@ Event appears in the ListBox
 
 🛠️ Installation
 
-Clone the repository:
-
-git clone https://github.com/yourname/SmartSecurityCam.git
-
-
-Open the project in Visual Studio
-
 Restore NuGet packages (if needed)
 
 Press Start ▶️
